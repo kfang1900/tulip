@@ -7,8 +7,8 @@
 
 
 # compiled js files
-dist/*.js
-dist/**/*.js
+/dist/*.js
+/dist/**/*.js
 
 # testing
 /coverage
