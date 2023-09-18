@@ -5,11 +5,6 @@
 /.pnp
 .pnp.js
 
-
-# compiled js files
-/dist/*.js
-/dist/**/*.js
-
 # testing
 /coverage
 
@@ -43,3 +38,6 @@ next-env.d.ts
 
 # misc
 .vscode
+
+dist/*.js
+dist/**/*.js
